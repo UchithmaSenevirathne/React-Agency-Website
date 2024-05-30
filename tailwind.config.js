@@ -10,6 +10,7 @@ module.exports = {
         'neutralDGrey' : '#4d4d4d',
         'brandPrimary' : '#4caf4f',
         'neutralGrey' : '#717171',
+        'gray900' : '#18191f',
       }
     },
   },
