@@ -38,7 +38,7 @@ const Product = () => {
             <div className='px-4 lg:px-24 max-w-screen-2xl mx-auto bg-neutralSilver py-16'>
                 <div className='flex flex-col md:flex-row justify-between items-center gap-8'>
                     <div className='md:w-1/3'>
-                        <img src={maecenas} alt='' className='rounded w-[360px]'/>
+                        <img src={maecenas} alt='' className='rounded-lg w-[360px]'/>
                     </div>
                     {/*stats*/}
                     <div className='md:w-2/3 mx-auto'>

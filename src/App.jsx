@@ -4,6 +4,7 @@ import Home from './components/Home'
 import Services from './components/Services'
 import About from './components/About'
 import Product from './components/Product'
+import Blog from './components/Blog'
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
           <Services/>
           <About/>
           <Product/>
+          <Blog/>
       </>
   );
 }
